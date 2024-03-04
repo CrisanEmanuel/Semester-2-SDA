@@ -1,0 +1,16 @@
+# ninja log v5
+7	159	7026454336874178	CMakeFiles/Proiect.dir/TestScurt.cpp.obj	f371656b57d10532
+2	312	7068765691446925	build.ninja	c9a884d29ee82b15
+2	158	7026454336864136	CMakeFiles/Proiect.dir/TestExtins.cpp.obj	b49c664141a2a5c4
+5	158	7026454336864136	CMakeFiles/Proiect.dir/Coada.cpp.obj	6224e4f62e54b545
+14	127	7025829801924317	CMakeFiles/Proiect.dir/main.cpp.obj	bd3839033725bcf1
+159	326	7026454338534129	Proiect.exe	8dcdd6b74d16348e
+4	297	7068765691446925	build.ninja	c9a884d29ee82b15
+8	74	7068765692746951	CMakeFiles/Proiect.dir/main.cpp.obj	bd3839033725bcf1
+5	94	7068765692946932	CMakeFiles/Proiect.dir/TestScurt.cpp.obj	f371656b57d10532
+10	109	7068765693106907	CMakeFiles/Proiect.dir/Coada.cpp.obj	6224e4f62e54b545
+2	117	7068765693186903	CMakeFiles/Proiect.dir/TestExtins.cpp.obj	b49c664141a2a5c4
+117	269	7068765694692317	Proiect.exe	8dcdd6b74d16348e
+2	42	7068767376377354	CMakeFiles/Proiect.dir/main.cpp.obj	bd3839033725bcf1
+6	84	7068767376788395	CMakeFiles/Proiect.dir/TestExtins.cpp.obj	b49c664141a2a5c4
+84	151	7068767377439078	Proiect.exe	8dcdd6b74d16348e

@@ -1,0 +1,34 @@
+/*
+ * Subalgoritm init(C, cp) este:
+       daca cp <= 0 atunci
+       |   arunca exceptie()
+       sfDaca
+       c.capacity <- cp
+       c.rear <- 0
+       c.front <- 0
+       c.elems <- new TElem[c.capacity]
+  sfSubalgoritm
+*/
+
+
+/*
+ * Subalgoritm adauga(c, elem) este:
+	daca c.rear = c.capacity atunci
+	|	arunca exceptie()
+	altfel
+	|	c.elems[c.rear] <- elem
+	|	c.rear = c.rear + 1
+	|
+	sfDaca
+   sfSubalgoritm
+*/
+
+/*
+ * Subalgoritm plina(c) este:
+	daca c.rear = c.capacity atunci
+	|	returneaza adevarat
+	altfel returneaza fals
+	|
+	sfDaca
+   sfSubalgoritm
+*/		

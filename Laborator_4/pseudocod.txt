@@ -1,0 +1,12 @@
+Subalgoritm avanseazaKPasi(D,I, k) este:
+	daca k <= 0 arunca exceptie
+	Sf daca
+	
+	cat timp k > 0 executa
+	|	daca !valid(I) arunca exceptie
+	|	urmator(I)
+	|	k = k - 1
+	Sf Cat timp
+Sf subalgoritm
+
+Complexitate: WC Θ(k) BC Θ(1) Overall Θ(k)

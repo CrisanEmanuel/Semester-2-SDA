@@ -1,0 +1,16 @@
+Subalgoritm celMaiFrecvent(C) este:
+	daca vida(C) atunci returneaza NULL_TELEM
+	Sf daca
+
+	nrAparitiiMaxima = 0
+	it = iterator(C)
+	Cat timp valid(it) executa 
+	|	aux = nrAparitii(element(it))
+	|	daca aux > nrAparitiiMaxima atunci
+	|	|	nrApariiMaxima = aux
+	|	|	element = element(it)
+	|	SfDaca
+	|	urmator(it)
+	SfCattimp
+
+Complexitate WC:Θ(nrElemente)  BC:Θ(1)  Overall:O(nrElemente)

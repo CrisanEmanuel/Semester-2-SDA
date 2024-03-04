@@ -1,0 +1,14 @@
+# ninja log v5
+832	1260	7056237920950661	Proiect.exe	e04a49a6391a035b
+6	707	7055993620823821	CMakeFiles/Proiect.dir/main.cpp.obj	b9f10838084e55ff
+28	269	7056237911099106	CMakeFiles/Proiect.dir/Iterator.cpp.obj	fa560ff982b96bbb
+5	253	7056237910895788	CMakeFiles/Proiect.dir/TestScurt.cpp.obj	10e2e23b58eb9d3b
+13	261	7056237910997923	CMakeFiles/Proiect.dir/DO.cpp.obj	750ea002fd5c75ac
+20	832	7056237916727034	CMakeFiles/Proiect.dir/TestExtins.cpp.obj	5268e955199127b8
+0	123	7068768260747872	build.ninja	5cf476dd88d4db35
+2	86	7068768262182480	CMakeFiles/Proiect.dir/TestScurt.cpp.obj	10e2e23b58eb9d3b
+7	88	7068768262202443	CMakeFiles/Proiect.dir/Iterator.cpp.obj	fa560ff982b96bbb
+4	98	7068768262303938	CMakeFiles/Proiect.dir/DO.cpp.obj	750ea002fd5c75ac
+12	303	7068768264361987	CMakeFiles/Proiect.dir/main.cpp.obj	b9f10838084e55ff
+9	439	7068768265713647	CMakeFiles/Proiect.dir/TestExtins.cpp.obj	5268e955199127b8
+439	514	7068768266443641	Proiect.exe	e04a49a6391a035b

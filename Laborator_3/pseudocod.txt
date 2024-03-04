@@ -1,0 +1,3 @@
+Subalgoritm goleste(DO):
+	DO.lg = 0
+sfSubalgoritm

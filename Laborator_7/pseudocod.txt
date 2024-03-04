@@ -1,0 +1,21 @@
+Subalgoritm diferenta(C) este:
+	daca vida(C) atunci returneaza -1
+	sfDaca
+	it = iterator(C)
+	minim = element(it)
+	urmator(it);
+	maxim = element(it)
+	cat timp valid(C) executa
+	|	aux = element(it)
+	|	daca aux < minim atunci
+	|	|	minim = aux
+	|	SfDaca
+	|	daca aux > maxim atunic
+	|	|	maxim = aux
+	|	SfDaca
+	|	urmator(it)
+	SfCattimp 
+	returneaza maxim - minim
+SfSubalgoritm
+
+Complexitate WC:Θ(nrElemente)  BC:Θ(1)  Overall:O(nrElemente)
